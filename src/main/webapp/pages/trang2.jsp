@@ -12,7 +12,7 @@
         <title>Page 2</title>
     </head>
     <body>
-        <h1>Tính bình phương từ 1- 10</h1>
+        <h1>Tính bình phương từ 1 - 10</h1>
         <%!
             int lamToan(int i){ return i*i;}
         %>
